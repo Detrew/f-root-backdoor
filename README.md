@@ -18,7 +18,7 @@
 </p>
 
 ## Requisites
-Python3 (tested on: Python 3.11.2)
+Python3 (tested on: Python 3.11.2, 3.9.9)
 
 if possible root in the machine
 ## Perks
