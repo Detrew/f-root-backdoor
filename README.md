@@ -48,8 +48,8 @@ if you don't just change things in the file and it's ready to run, if you want t
 
 ## Install
 ```
-git clone https://github.com/Detrew/froot-backdoor
-cd froot-backdoor
+git clone https://github.com/Detrew/f-root-backdoor
+cd f-root-backdoor
 chmod +x install.sh
 bash install.sh
 ```
