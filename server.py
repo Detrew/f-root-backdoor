@@ -60,7 +60,7 @@ help=f"""
     ╔═════════════════════════════════════════════╗
      {blue}#exit{off}: Close The Target Session
      {blue}#revshell{off}: make a reverseshell     
-     {blue}#kick{off}: Kick Everyone :) 
+     {blue}#kill{off}: Kick Everyone :) 
      {blue}#help{off}: Help Manual (this)
     ╚═════════════════════════════════════════════╝\n\n
     """
