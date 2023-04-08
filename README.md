@@ -18,7 +18,14 @@
 </p>
 
 ## Requisites
-Python3 (tested on: Python 3.11.2, 3.9.9)
+Python3 (tested on: Python 3.11.2, 3.9.9, 3.6.9)
+
+### tested koth machines
+Hackers :white_check_mark:
+Food :white_check_mark:
+Shrek :white_check_mark:
+Hogwarts ❌
+SpaceJam ❌
 
 if possible root in the machine
 ## Perks
