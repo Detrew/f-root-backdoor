@@ -24,6 +24,7 @@ Python3 (tested on: Python 3.11.2, 3.9.9, 3.6.9)
 Hackers :white_check_mark:
 Food :white_check_mark:
 Shrek :white_check_mark:
+Fortune :white_check_mark:
 Hogwarts ❌
 SpaceJam ❌
 
