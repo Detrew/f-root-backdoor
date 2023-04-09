@@ -34,6 +34,7 @@ banner_reaper=f"""
   ▒▓              ▓▒     ▓▓▓   ▓▓▓▓▓▓   ▓▓▓ ▓▓      | |__||__| |            
 ▒▓▒ ▒           ▒ ▒▒▒     ▒ ▒ ▒ ▒  ▒ ▒ ▒ ▒  ▒▒▒ ▒   |__________|
                                                      {green}[Backdoor]{off}
+                                                     {green}[https://github.com/Detrew]{off}
 {off}
 
 """
