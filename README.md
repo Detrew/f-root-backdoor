@@ -20,12 +20,22 @@
 ## Requisites
 Python3 (tested on: Python 3.11.2, 3.9.9, 3.6.9)
 
+### To install Python 3.9.9 (no-root)
+```
+wget https://www.python.org/ftp/python/3.9.9/Python-3.9.9.tgz
+tar -zxvf Python-3.9.9.tgz
+cd Python-3.9.9.tgz
+mkdir /path/to/.localpython # change
+./configure --prefix=/path/to/.localpython # change
+make;make install
+```
 ### tested koth machines
 Hackers :white_check_mark:
 Food :white_check_mark:
 Shrek :white_check_mark:
 Fortune :white_check_mark:
 Hogwarts ❌
+Panda ❌
 SpaceJam ❌
 
 if possible root in the machine
