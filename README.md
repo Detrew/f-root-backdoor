@@ -58,7 +58,7 @@ The backdoor Hides The PID of the process that is done through the server making
 
 
 ## Configuration
-Change the passwords or the port if you want to default the port is 2222 and the login and password are `froot:detrew`
+Change the passwords or the port if you want to default the port is 1010 and the login and password are `froot:detrew`
 
 If you want to simplify things run the file install.sh (Modify the file Server.py before)
 
