@@ -75,4 +75,4 @@ bash install.sh
 ### On Your Machine Connect Using nc
 `nc IP PORT`
 
-### problems or doubts my discord is Detrew#0600
+
